@@ -1,0 +1,10 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.text-danger {
+    background-color: red;
+    color: white !important;
+    padding: 15px;
+}
